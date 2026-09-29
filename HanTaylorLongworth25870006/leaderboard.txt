@@ -1,4 +1,0 @@
-hantest3,40
-hantest4,25
-hantest1,2
-hantest2,0
